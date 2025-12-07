@@ -16,10 +16,9 @@ const client = new TwitterApi({
 Flash sale PAK GEMBUS!! Jadi 25rb an aja 2 paket!!!! 🍗 ✨
 
 Cek disini sebelum habisss 👇
-https://spf.shopee.co.id/AA9W23srh3
-https://spf.shopee.co.id/AA9W23srh3
+https://spf.shopee.co.id/2B7aokxeTZ
 
-t. jual beli gofood grabfood shopeefood kode promo voc go grab shopee food sfood daget gojek gratis ongkir thr shopeepay dana kaget
+t. jual beli gofood grabfood shopeefood kode promo voc go grab shopee food sfood daget gojek gratis ongkir thr shopeepay dana kaget sabtu malming malam minggu
 `;
 
     // 📸 Upload dua gambar
@@ -37,3 +36,4 @@ t. jual beli gofood grabfood shopeefood kode promo voc go grab shopee food sfood
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
